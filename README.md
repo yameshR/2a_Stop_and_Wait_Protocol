@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
-## Name:N.NAVYA SREE
-## REG NO:212223040138
+## Name:Yamesh R
+## REG NO:212222220059
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
